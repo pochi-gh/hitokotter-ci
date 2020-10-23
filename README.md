@@ -16,6 +16,7 @@ http://hitokotter.herokuapp.com/
 
 ## できること
 ##### 投稿 <br>
+![投稿画面](https://user-images.githubusercontent.com/63763161/97006996-aa76b880-157b-11eb-89b4-59c01fc77372.gif)
 
 ##### タグ付 <br>
 ##### いいね <br>
