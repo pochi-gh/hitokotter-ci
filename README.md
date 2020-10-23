@@ -15,10 +15,11 @@ http://hitokotter.herokuapp.com/
 ■DB： PostgreSQL<br>
 
 ## できること
-### 一言投稿 及びタグ管理<br>
-####  Vue Tags Inputによるタグ管理及び自動補完
+#### 一言投稿 及びタグ管理<br>
+######  タグ管理はVue Tags Inputを使用し自動補完機能を完備
 ![投稿画面](https://user-images.githubusercontent.com/63763161/97006996-aa76b880-157b-11eb-89b4-59c01fc77372.gif)
 ##### いいね <br>
+
 ##### ユーザー管理 <br>
 ##### sns認証 <br>
 ##### ユーザーフォロー <br>
