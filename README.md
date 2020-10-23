@@ -31,6 +31,7 @@ http://hitokotter.herokuapp.com/
 ##### ユーザーフォロー <br>
 ■マイページよりフォロー及びフォロワーの確認<br>
 ■他ユーザーのマイページにあるフォローボタンにてフォロー追加及びフォローの削除<br>
+![ff](https://user-images.githubusercontent.com/63763161/97011614-e14fcd00-1581-11eb-833e-1798cc97c5ad.gif)
 
 
 ##### sns認証 <br>
