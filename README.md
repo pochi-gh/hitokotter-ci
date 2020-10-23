@@ -35,9 +35,13 @@ http://hitokotter.herokuapp.com/
 
 
 ##### sns認証 <br>
+■グーグルIDによるユーザー登録及びログイン機能
+<img width="651" alt="スクリーンショット 2020-10-23 22 51 15" src="https://user-images.githubusercontent.com/63763161/97013153-ae0e3d80-1583-11eb-845d-775357160e7e.png">
+<img width="589" alt="スクリーンショット 2020-10-23 22 56 57" src="https://user-images.githubusercontent.com/63763161/97013158-af3f6a80-1583-11eb-8042-9632dfb570d8.png">
 
 
 ## 実装予定機能
-##### ・コメント機能
+■コメント機能
+■SNS認証の拡充（Twitter等）
 
 
