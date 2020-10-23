@@ -3,6 +3,7 @@
 hitokotter<br>
 <本番環境URL><br>
 http://hitokotter.herokuapp.com/
+<br>
 ![ログイン](https://user-images.githubusercontent.com/63763161/97005779-e1e46580-1579-11eb-8f74-db9c23612c5d.gif)
 ## 開発環境
 ■言語： PHP　<br>
@@ -37,7 +38,7 @@ http://hitokotter.herokuapp.com/
 
 
 ## 実装予定機能
-■コメント機能
+■コメント機能<br>
 ■SNS認証の拡充（Twitter等）
 
 
