@@ -22,6 +22,10 @@ http://hitokotter.herokuapp.com/
 ■vue.jsを使用してのいいね機能。
 ![いいね](https://user-images.githubusercontent.com/63763161/97007984-30dfca00-157d-11eb-8ef3-ce04dee13f2b.gif)
 ##### ユーザー管理 <br>
+■マイページより投稿内容の確認<ｂｒ>
+■マイページよりいいね投稿の確認<ｂｒ>
+■マイページよりフォロー及びフォロワーの確認
+![ユーザー](https://user-images.githubusercontent.com/63763161/97008831-4bff0980-157e-11eb-8339-d2d9317ca2f7.gif)
 
 ##### sns認証 <br>
 ##### ユーザーフォロー <br>
