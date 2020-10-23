@@ -16,12 +16,13 @@ http://hitokotter.herokuapp.com/
 
 ## できること
 #### 一言投稿 及びタグ管理<br>
-######  タグ管理はVue Tags Inputを使用し自動補完機能を完備
+■タグ管理はVue Tags Inputを使用し自動補完機能を完備
 ![投稿画面](https://user-images.githubusercontent.com/63763161/97006996-aa76b880-157b-11eb-89b4-59c01fc77372.gif)
 ##### いいね <br>
-######  vue.jsを使用してのいいね機能。
+■vue.jsを使用してのいいね機能。
 ![いいね](https://user-images.githubusercontent.com/63763161/97007984-30dfca00-157d-11eb-8ef3-ce04dee13f2b.gif)
 ##### ユーザー管理 <br>
+
 ##### sns認証 <br>
 ##### ユーザーフォロー <br>
 
