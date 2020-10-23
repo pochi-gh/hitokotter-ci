@@ -7,6 +7,7 @@ http://hitokotter.herokuapp.com/
 ## 概要
 一言掲示板
 
+![ログイン](https://user-images.githubusercontent.com/63763161/97005779-e1e46580-1579-11eb-8f74-db9c23612c5d.gif)
 ## 開発環境
 ■言語： PHP　<br>
 ■フレームワーク：Laravel<br>
