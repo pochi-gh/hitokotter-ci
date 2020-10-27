@@ -1,7 +1,3 @@
-# PHP CircleCI 2.0 configuration file
-#
-# Check https://circleci.com/docs/2.0/language-php/ for more details
-#
 version: 2.1
 jobs:
   build:
@@ -9,7 +5,13 @@ jobs:
       - image: circleci/php:7.3-node-browsers
     steps:
       - checkout
+      - restore_cache:
+          key: composer-v1-{{ checksum "composer.lock" }}
       - run: composer install -n --prefer-dist
+      - save_cache:
+          key: composer-v1-{{ checksum "composer.lock" }}
+          paths:
+            - vendor
       - run: npm ci
       - run: npm run dev
       - run:
